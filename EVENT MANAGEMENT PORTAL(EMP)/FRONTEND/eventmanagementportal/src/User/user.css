@@ -1,0 +1,10 @@
+.myuser{
+    background-image: url("../images/event.jpeg");
+    background-size: cover;
+    height: 109vh;
+    margin-top: 20px;
+    font-size: 10px;
+    color:purple;
+    width: auto;
+    background-repeat: no-repeat;
+}
